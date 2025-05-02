@@ -44,7 +44,7 @@ const findFriendByName = function (friends, names) {
     return null;
 }
 
-console.log(findFriendByName(friends, 'Ajax'));
+console.log(findFriendByName(friends, 'Kiwi'));
 console.log(" ");
 
 //4 ✅ 
@@ -122,3 +122,4 @@ const getAllStock = function (name) {
     return all;
 }
 console.log(getAllStock(products));
+
